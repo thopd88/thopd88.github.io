@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to be friend with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Pham Duc Tho, friends call me Alex. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am an Educator and also a Coder
+- I am married (and we're waiting for the kids)
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I'm having some trouble remembering right now, so why don't you just take a look at [my publications](https://scholar.google.com/citations?hl=vi&authuser=1&user=Qa8XJc8AAAAJ) and [my git profile](https://github.com/thopd88) and it will answer **some** of your questions.
