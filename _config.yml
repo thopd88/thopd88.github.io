@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         title: Peer-Interaction Programming Learning System
-        link: new.pipls.net
+        link: pipls.net
       - layout: top-middle
         title: Cùng Học
         link: cunghoc.net
@@ -139,7 +139,6 @@ content:
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      I have published a number of research papers in international journals and conferences. Some of my most recent publications are:
       - Lai, C.-H., **Tho, P.-D.***. (2023). Design and Development of a Personalized Recommender System of Student Question-Generation Exercises for Programming Courses. Paper presented at the 31th International Conference on Computers in Education.
       - **Tho, P.-D.***, Lai, C.-H.. (2022). Exploring the Behavior Patterns of Students Accessing Online Learning Material in Online Course: A Case Study at Hung Vuong University. Paper presented at the 30th International Conference on Computers in Education.
       - **Tho, P.-D.***, Lai, C.-H., & Tai, T.-T. (2021). Exploring Student Behavior during Student-Generated Questions Activities on Programming Learning. Paper presented at the 29th International Conference on Computers in Education.
