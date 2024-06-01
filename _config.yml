@@ -30,13 +30,13 @@ linkedin_username: thopd
 orcid_username: 0000-0003-4554-1540
 
 # Additional icon links
-# additional_links:
-# - title: Web of Science
-#   icon: fab fa-wikipedia-w
-#   url: https://www.webofscience.com/wos/author/record/46065993
-# - title: Scopus
-#   icon: fab fa-wikipedia-w
-#   url: https://www.scopus.com/authid/detail.uri?authorId=57194155325
+additional_links:
+- title: Web of Science Author
+  # icon: fab fa-wikipedia-w
+  url: https://www.webofscience.com/wos/author/record/46065993
+- title: Scopus Author
+  # icon: fab fa-wikipedia-w
+  url: https://www.scopus.com/authid/detail.uri?authorId=57194155325
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -53,11 +53,11 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>PHP</mark> and <mark>Laravel</mark>
 
 content:
-  - title: Other Links
-    layout: text
-    content: | 
-      - [Web of Science Author](https://www.webofscience.com/wos/author/record/46065993)
-      - [Scopus Author](https://www.scopus.com/authid/detail.uri?authorId=57194155325)
+  # - title: Other Links
+  #   layout: text
+  #   content: | 
+  #     - [Web of Science Author](https://www.webofscience.com/wos/author/record/46065993)
+  #     - [Scopus Author](https://www.scopus.com/authid/detail.uri?authorId=57194155325)
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
