@@ -30,13 +30,13 @@ linkedin_username: thopd
 orcid_username: 0000-0003-4554-1540
 
 # Additional icon links
-additional_links:
-- title: Web of Science
-  icon: fab fa-wikipedia-w
-  url: https://www.webofscience.com/wos/author/record/46065993
-- title: Scopus
-  icon: fab fa-wikipedia-w
-  url: https://www.scopus.com/authid/detail.uri?authorId=57194155325
+# additional_links:
+# - title: Web of Science
+#   icon: fab fa-wikipedia-w
+#   url: https://www.webofscience.com/wos/author/record/46065993
+# - title: Scopus
+#   icon: fab fa-wikipedia-w
+#   url: https://www.scopus.com/authid/detail.uri?authorId=57194155325
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -53,6 +53,11 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>PHP</mark> and <mark>Laravel</mark>
 
 content:
+  - title: Other Links
+    layout: text
+    content: | 
+      - [Web of Science Author](https://www.webofscience.com/wos/author/record/46065993)
+      - [Scopus Author](https://www.scopus.com/authid/detail.uri?authorId=57194155325)
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -128,13 +133,13 @@ content:
         caption: 2010 - 2012
         sub_title: Master in Computer Science
         description: | # this will include new lines to allow paragraphs
-          During my time at Hanoi University of Science and Technology, I was working on my Master's degree in Computer Science. My research title is Research on the application of SOA architecture in enterprise environments.
+          During my time at Hanoi University of Science and Technology, I was working on my Master's degree in Computer Science. My research title was: Research on the application of SOA architecture in enterprise environments.
       - layout: left
         title: Hung Vuong University
         caption: 2006 - 2010
         sub_title: Bachelor in Computer Science
         description: | # this will include new lines to allow paragraphs
-          I attended Hung Vuong University in 2006, achieving the highest admission grade and graduating with top honors. I then stayed on to become a lecturer immediately after graduation.
+          I attended Hung Vuong University in 2006, achieving the highest admission grade and graduating with top honors. I then stayed on to become a lecturer immediately after graduation. My dissertation title was: Research on Java Platform, Micro Edition on mobile phones (j2me) and building a demonstration application.
 
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
