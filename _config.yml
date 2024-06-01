@@ -127,10 +127,14 @@ content:
         title: Hanoi University of Science and Technology
         caption: 2010 - 2012
         sub_title: Master in Computer Science
+        description: | # this will include new lines to allow paragraphs
+          During my time at Hanoi University of Science and Technology, I was working on my Master's degree in Computer Science. My research title is Research on the application of SOA architecture in enterprise environments.
       - layout: right
         title: Hung Vuong University
         caption: 2006 - 2010
         sub_title: Bachelor in Computer Science
+        description: | # this will include new lines to allow paragraphs
+          I attended Hung Vuong University in 2006, achieving the highest admission grade and graduating with top honors. I then stayed on to become a lecturer immediately after graduation.
 
   - title: A Little More About Me
     layout: text
