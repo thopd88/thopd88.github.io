@@ -95,12 +95,12 @@ content:
           I am currently working at the International School, Vietnam National University, where I am a lecturer in the Department of Applied Sciences. I am responsible for teaching and researching in the field of Learning Technologies and Software Engineering.
         sub_title: Lecturer
         caption: April 2024 - Present
-      - layout: right
-        title: Greenwich University - Vietnam Campus
-        link: greenwich.edu.vn
-        # link_text: boringcompany.com
-        sub_title: Part-time Lecturer
-        caption: June 2021 - April 2024
+      # - layout: right
+      #   title: Greenwich University - Vietnam Campus
+      #   link: greenwich.edu.vn
+      #   # link_text: boringcompany.com
+      #   sub_title: Part-time Lecturer
+      #   caption: June 2021 - April 2024
       - layout: left
         title: Hung Vuong University
         link: hvu.edu.vn
