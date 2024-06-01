@@ -129,12 +129,21 @@ content:
         sub_title: Master in Computer Science
         description: | # this will include new lines to allow paragraphs
           During my time at Hanoi University of Science and Technology, I was working on my Master's degree in Computer Science. My research title is Research on the application of SOA architecture in enterprise environments.
-      - layout: right
+      - layout: left
         title: Hung Vuong University
         caption: 2006 - 2010
         sub_title: Bachelor in Computer Science
         description: | # this will include new lines to allow paragraphs
           I attended Hung Vuong University in 2006, achieving the highest admission grade and graduating with top honors. I then stayed on to become a lecturer immediately after graduation.
+
+  - title: Publications # Title for the section
+    layout: text # Type of content section (list/text)
+    content: | # this will include new lines to allow paragraphs
+      I have published a number of research papers in international journals and conferences. Some of my most recent publications are:
+      - Pham-Duc Tho, Nguyen-Thi-Thu, & Nguyen-Thi-Thu. (2021). A Peer-Interaction Programming Learning System to Support Students in Learning Programming through Peer Interaction. International Journal of Emerging Technologies in Learning (iJET), 16(1), 4-17.
+      - Pham-Duc Tho, Nguyen-Thi-Thu, & Nguyen-Thi-Thu. (2021). A Peer-Interaction Programming Learning System to Support Students in Learning Programming through Peer Interaction. In Proceedings of the 2021 International Conference on Learning Technologies (ICLT 2021) (pp. 1-10).
+      - Pham-Duc Tho, Nguyen-Thi-Thu, & Nguyen-Thi-Thu. (2021). A Peer-Interaction Programming Learning System to Support Students in Learning Programming through Peer Interaction. In Proceedings of the 2021 International Conference on Learning Technologies (ICLT 2021) (pp. 1-10).
+
 
   - title: A Little More About Me
     layout: text
