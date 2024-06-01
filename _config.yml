@@ -140,9 +140,19 @@ content:
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
       I have published a number of research papers in international journals and conferences. Some of my most recent publications are:
-      - Pham-Duc Tho, Nguyen-Thi-Thu, & Nguyen-Thi-Thu. (2021). A Peer-Interaction Programming Learning System to Support Students in Learning Programming through Peer Interaction. International Journal of Emerging Technologies in Learning (iJET), 16(1), 4-17.
-      - Pham-Duc Tho, Nguyen-Thi-Thu, & Nguyen-Thi-Thu. (2021). A Peer-Interaction Programming Learning System to Support Students in Learning Programming through Peer Interaction. In Proceedings of the 2021 International Conference on Learning Technologies (ICLT 2021) (pp. 1-10).
-      - Pham-Duc Tho, Nguyen-Thi-Thu, & Nguyen-Thi-Thu. (2021). A Peer-Interaction Programming Learning System to Support Students in Learning Programming through Peer Interaction. In Proceedings of the 2021 International Conference on Learning Technologies (ICLT 2021) (pp. 1-10).
+      - Lai, C.-H., *Tho, P.-D.*. (2023). Design and Development of a Personalized Recommender System of Student Question-Generation Exercises for Programming Courses. Paper presented at the 31th International Conference on Computers in Education.
+      - *Tho, P.-D.*, Lai, C.-H.. (2022). Exploring the Behavior Patterns of Students Accessing Online Learning Material in Online Course: A Case Study at Hung Vuong University. Paper presented at the 30th International Conference on Computers in Education.
+      - *Tho, P.-D.*, Lai, C.-H., & Tai, T.-T. (2021). Exploring Student Behavior during Student-Generated Questions Activities on Programming Learning. Paper presented at the 29th International Conference on Computers in Education.
+      - Lai, C.-H., & *Tho, P.-D.* (2020). The integration of Mobile Instant Messaging to a Peer-Interaction Programming Learning System. Paper presented at the The 28th International Conference on Computers in Education (ICCE 2020).
+      - *Tho, P.-D.*, Lai, C.-H., & Navratil, O. (2020). Effect of Behavior Patterns of Accessing Learning Materials on Learning Performance in Student-generated Question Activities. Journal of Internet Technology, 21(1), 135-146.
+      - Lai, C.-H., Lin, H.-W., Lin, R.-M., & *Tho, P.-D.* (2019). Effect of Peer Interaction among Online Learning Community on Learning Engagement and Achievement. International Journal of Distance Education Technologies (IJDET), 17(1), 66-77.
+      - *Tho, P.-D.*, Cuong, N.-H., Kien, H.-C., & Lai, C.-H. (2018). Development of a Peer-Interaction Programming Learning System. Paper presented at the International Conference on Context- Aware Systems and Applications, and Nature of Computation and Communication, Vietnam.
+      - Lai, C.-H., *Tho, P.-D.*, Navrátil, O., & Yang, S.-P. (2018). The use of web analytical tools to improve the student engagement in the context of industrial revolution 4.0. Paper presented at the International Conference on Teacher Education Renovation. 
+      - Arunoprayoch, N., Lai, C.-H., *Tho, P.-D.*, Liang, J.-S., & Yang, J.-C. (2018). Effects of Question Types on Engagement and Performance of Programming Learning for Non-computer Science Majors. Paper presented at the 2018 7th International Congress on Advanced Applied Informatics (IIAI-AAI).
+      - Arunoprayoch, N., Lai, C.-H., *Tho, P.-D.*, & Liang, J.-S. (2017). Effects of peer interaction on web-based computer programming learning. Paper presented at The 25th International Conference on Computers in Education (ICCE 2017).
+      - Lai, C.-H., *Tho, P.-D.*, & Liang, J.-S. (2017). Design and evaluation of question-generated programming learning system. Paper presented at the 2017 6th IIAI International Congress on Advanced Applied Informatics (IIAI-AAI).
+      - Lai, C. H., & *Tho, P.-D.* (2016). Development of a Programming Learning System Based on a Question Generated strategy. Paper presented at the 24th International Conference on Computers in Education, India.
+      - *Tho, P.-D.*, Duc D.-V. (2014). Developing an advanced watermarking algorithm for street-network vector maps against scale attack. Paper presented at the 7th National Conference on Fundamental and Applied IT Research - FAIR'7
 
 
   - title: A Little More About Me
